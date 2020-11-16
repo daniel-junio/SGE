@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d3744c1-1381-4dbc-b796-fe2edc4bbec6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1k3rgJ5KMK1CWz1gtWZujwnqPoY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Views/Aluno" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\php\CRUD\app" />
+      <recent name="E:\php\CRUD" />
+      <recent name="E:\php\CRUD\Includes\Aluno" />
+      <recent name="E:\php\CRUD\Views\Aluno" />
+      <recent name="E:\php\CRUD\Views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\php\CRUD\Views\Aluno" />
+      <recent name="E:\php\CRUD" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.conexao.php">
+    <configuration name="conexao.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CRUD/DataBase/conexao.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CRUD/Views/index.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.conexao.php" />
+        <item itemvalue="JavaScript Debug.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d3744c1-1381-4dbc-b796-fe2edc4bbec6" name="Default Changelist" comment="" />
+      <created>1604940225755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604940225755</updated>
+      <workItem from="1604940226957" duration="1609000" />
+      <workItem from="1604944335934" duration="8519000" />
+      <workItem from="1604969325324" duration="6162000" />
+      <workItem from="1605012090091" duration="5973000" />
+      <workItem from="1605109369322" duration="2833000" />
+      <workItem from="1605115983697" duration="2511000" />
+      <workItem from="1605121082630" duration="3454000" />
+      <workItem from="1605128112574" duration="1951000" />
+      <workItem from="1605138714322" duration="1526000" />
+      <workItem from="1605150990773" duration="6990000" />
+      <workItem from="1605186819543" duration="9696000" />
+      <workItem from="1605198143406" duration="1008000" />
+      <workItem from="1605199194480" duration="3127000" />
+      <workItem from="1605230154729" duration="2653000" />
+      <workItem from="1605238306762" duration="3376000" />
+      <workItem from="1605284334178" duration="1515000" />
+      <workItem from="1605288558694" duration="2613000" />
+      <workItem from="1605313156527" duration="409000" />
+      <workItem from="1605405465178" duration="1503000" />
+      <workItem from="1605486597124" duration="12709000" />
+      <workItem from="1605499780098" duration="3473000" />
+      <workItem from="1605503366011" duration="2091000" />
+      <workItem from="1605528132247" duration="4199000" />
+      <workItem from="1605533029582" duration="974000" />
+      <workItem from="1605535560846" duration="5898000" />
+      <workItem from="1605542080058" duration="6709000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="42" key="#Inspections" timestamp="1605155165270">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="42" key="#Inspections/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1605155165270" />
+    <state x="390" y="7" key="#PHP" timestamp="1604944759429">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="7" key="#PHP/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1604944759429" />
+    <state x="59" y="205" key="#SQL_Dialects" timestamp="1605153763627">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="59" y="205" key="#SQL_Dialects/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1605153763627" />
+    <state x="123" y="220" key="#SQL_Resolution_Scopes" timestamp="1605155178896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="123" y="220" key="#SQL_Resolution_Scopes/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1605155178896" />
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605155184931">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1605155184931" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605494234341">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1605494234341" />
+    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1605500461408">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="119" key="FileChooserDialogImpl/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1605500461408" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1605121024606">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1605121024606" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1605121024606">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1605121024606" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1605121024605">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1605121024605" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1605121024606">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1605121024606" />
+    <state x="511" y="87" key="NewPhpClassDialog" timestamp="1604952946415">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="511" y="87" key="NewPhpClassDialog/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1604952946415" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1605544547527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-849" y="287" key="NewPhpFileDialog/-1366.0.1366.728/0.0.1366.728@-1366.0.1366.728" timestamp="1605190985406" />
+    <state x="517" y="287" key="NewPhpFileDialog/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1605544547527" />
+    <state width="200" height="441" key="SqlResolveConfigurable" timestamp="1605155178023">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="200" height="441" key="SqlResolveConfigurable/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1605155178023" />
+    <state x="452" y="172" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1605502324414">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="452" y="172" key="com.jetbrains.php.test.PhpNewTestDialog/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1605502324414" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1605486629102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/-1366.0.1366.728/0.0.1366.728@0.0.1366.728" timestamp="1605486629102" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Classes/Materia.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

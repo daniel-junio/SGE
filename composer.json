@@ -1,0 +1,9 @@
+{
+  "name":"sge/crud",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "Database\\":"app/Db"
+    }
+  }
+}
